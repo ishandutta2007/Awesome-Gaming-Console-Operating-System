@@ -59,7 +59,7 @@ Whether you're setting up a Steam Deck alternative, an immutable Linux couch PC,
 
 *Top community-maintained gaming distributions sorted by GitHub star popularity.* ⭐
 
-| Stars Badge | Repo & Overview | Key Features & Target Devices | Primary Tech |
+| Stars_Badge | Repo & Overview | Key Features & Target Devices | Primary Tech |
 |:------------|:----------------|:------------------------------|:-------------|
 | [![Stars](https://img.shields.io/github/stars/RetroPie/RetroPie-Setup?style=social&color=white)](https://github.com/RetroPie/RetroPie-Setup/stargazers) | **[RetroPie](https://github.com/RetroPie/RetroPie-Setup)** 🕹️ | **Deepest customization option for retro gaming.** Modular setup script built on top of Raspbian/Debian. Over 50 emulated systems and massive community support. | Shell / C++ |
 | [![Stars](https://img.shields.io/github/stars/ublue-os/bazzite?style=social&color=white)](https://github.com/ublue-os/bazzite/stargazers) | **[Bazzite](https://github.com/ublue-os/bazzite)** 🚀 | **Leading community SteamOS alternative.** Immutable Fedora Atomic base with container architecture. Supports 20+ handhelds (Steam Deck, ROG Ally, Legion Go) and NVIDIA GPUs. | Containerfile / Shell |
